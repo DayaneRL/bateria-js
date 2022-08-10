@@ -1,8 +1,8 @@
-## Bateria em javascript
+# Bateria em javascript
 
-# Projeto Aula de Desenvolvimento WEB II - IFSP
+### Projeto Aula de Desenvolvimento WEB II - IFSP
 
-# Como funciona
+## Como funciona
 
 Botões Q, W, E, A, S, D, Z, X, C
 <br>
