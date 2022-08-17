@@ -23,7 +23,7 @@ document.querySelector('.busca').addEventListener('submit', async (event) => {
                 temp: json.main.temp
             });
         } else{
-            showWarning('Não encontramos esta localização');
+            showWarning('Não encontramos esta localização.');
         }
 
     }
